@@ -1,0 +1,41 @@
+*{
+        font-family: 'Courier New', Courier, monospace;
+}
+h3{
+        color: purple;
+}
+h1{
+      color:   #b92b27;
+}
+#login {
+        color: aqua;
+        background-color:white;
+}
+#signup{
+        background-color:  #b92b27;
+        color: aliceblue;
+}
+.upvote{
+        background-color: aqua;
+}
+p a{
+        color: purple;
+}
+p+h3{
+        text-decoration: underline;
+}
+.upvote+button{
+        background-color: blueviolet;
+        color: aliceblue;
+}
+span>button{
+        color: beige;
+        background-color: rebeccapurple;
+}
+div>input{
+        background-color: violet;
+        
+}
+input[type="text"]{
+        color: red;
+}
