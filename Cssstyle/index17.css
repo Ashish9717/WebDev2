@@ -1,0 +1,31 @@
+#maintopic{
+        color: blue;
+}
+*{
+        text-align: center;
+}
+h1 ,h3,h5{
+        font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+#Main{
+        color: white;
+        background-color: cornflowerblue;
+}
+div >button{
+        background-color: purple;
+        color: azure;
+}
+button:hover{
+        background-color: yellow;
+        color: blue;
+}
+#Main:nth-child(odd){
+        color: yellow;
+}
+#maintopic::first-letter{
+        color: red;
+}
+#Yes:checked+label{
+        color: green;
+        font-weight: bold;
+}

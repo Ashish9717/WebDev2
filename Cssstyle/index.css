@@ -39,3 +39,26 @@ div>input{
 input[type="text"]{
         color: red;
 }
+button:hover{
+        background-color: bisque;
+        color: aliceblue;
+        
+}
+button:active{
+        background-color: darkorchid;
+        color: black;
+}
+p:active{
+        font-weight: bold;
+        color: green;
+}
+input[type="radio"]:checked +label{
+        color: #b92b27;
+        font-weight: bold;
+
+}
+h1::first-letter{
+        color: black;
+
+}
+
