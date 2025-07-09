@@ -1,0 +1,12 @@
+div{
+        height: 100px;
+        width: 200px;
+        border: 2px solid black;
+        margin: auto;
+        margin-top: 20px;
+        text-align: center;
+        box-shadow: 2px 2px 2px green;
+        background-size: contain;
+        margin-left: 10px;
+        background-image: url(/imgaes/360_F_1054290710_wGR8ws4kOo3BbpYpJU0vhAFxy95243QM.webp);
+}
