@@ -1,0 +1,23 @@
+#static{
+        position: static;
+        background-color: aquamarine;
+        top:100px;
+        left:100px;
+}
+div{
+        height: 200px;
+        width: 200px;
+        
+}
+#relative{
+        position: relative;
+        top :100px;
+        left:100px;
+        background-color: green;
+}
+#Absslute{
+        position: absolute;
+        top :150px;
+        left:150px;
+        background-color:pink;
+}

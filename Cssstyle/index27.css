@@ -1,0 +1,36 @@
+.box{
+        height: 400px;
+        width: 400px;
+        background-color: antiquewhite;
+        padding: 5px;
+        align-content: center;
+        
+}
+#face{
+        height: 400px;
+        width: 400px;
+        border-radius: 50%;
+        background-color: yellow;
+}
+#Eye1 ,#Eye2{
+        height: 50px;
+        width: 50px;
+        background-color: black;
+        border-radius: 50%;
+        display: inline-block;
+        position: absolute;
+        left: 100px;
+        top: 70px;
+}
+#Eye2{
+        left: 250px;
+}
+#mouth{
+        background-color: orange;
+        width:200px;
+        height: 75px;
+        position: relative;
+        top: 250px;
+        left: 100px;
+        border-radius: 0 0 50px 50px;
+}
