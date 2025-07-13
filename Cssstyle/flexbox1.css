@@ -1,0 +1,21 @@
+
+#Container{
+        height: 550px;
+        width: 550px;
+        border: 2px solid black;
+        border-radius: 5px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 10px;
+        justify-content: center;
+}
+#Container>div{
+        background-color: gray;
+        height: 25%;
+        width: 25%;
+        border: 2px solid black;
+        margin: 10px;
+        text-align: center;
+        font-size: 45px ;
+        border-radius: 7px;
+}
