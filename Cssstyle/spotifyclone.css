@@ -252,6 +252,25 @@ a{
 .bar-controls{
   width: 25%;
 }
+.bar-control-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bar-controls img{
+  height: 2.5rem;
+  /* width: 2.5rem; */
+  padding: .25rem;
+}
+.bar-radio{
+  width: 70px;
+}
+.bar-img{
+  /* height: 5%; */
+  width: 7%;
+  opacity: 0.5;
+
+}
 .player-icon-control{
    height: 1rem;
    margin-right: 2rem;
